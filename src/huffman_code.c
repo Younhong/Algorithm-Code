@@ -67,11 +67,6 @@ int main(void) {
   return 0;
 }
 
-////////////////////////////////////////////////////////////
-//
-// mention your official classes' schedule here
-//
-////////////////////////////////////////////////////////////
 void GetHuffmanCode(struct zNode* codeTree, char* so_far)
 {
   int i =  Char2Index(codeTree->letter);
