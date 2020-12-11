@@ -1,1 +1,1 @@
-# Algorithm_Code
+# Algorithm Course
