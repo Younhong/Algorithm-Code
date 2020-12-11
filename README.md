@@ -1,1 +1,1 @@
-# Algorithm Course
+Algorithm Analysis Course
